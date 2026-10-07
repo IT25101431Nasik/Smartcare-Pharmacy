@@ -1,8 +1,7 @@
-target/
-uploads/
-.idea/
-*.iml
-.vscode/
-
-# Added: build output, IDE settings and uploaded files must never be committed
 .DS_Store
+node_modules/
+.env
+*.log
+.idea/
+.vscode/
+target/
